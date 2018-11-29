@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dgthealth.moodlemobile" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.dgthealth.mobile" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>DgtHealth</name>
     <description>Dgt Health official app</description>
     <author email="omer1900119001@gmail.com" href="http://moodle.com">Moodle Mobile team</author>
